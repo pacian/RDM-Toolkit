@@ -1,7 +1,6 @@
+# Guide to FAIR and Research Data Management Training Resources  
 # RDM-Toolkit
 Research Data Management  and FAIR Training Toolkit
-# Guide to FAIR and Research Data Management Training Resources  
-
 
 ## EOSC: European Open Science Cloud
 |Link|Description|
