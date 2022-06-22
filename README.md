@@ -1,19 +1,6 @@
 # Guide for Research Data Management  
 # 
-Research Data Management Toolkit
-
-## EOSC: European Open Science Cloud
-|Link|Description|
-|---|---|
-|https://www.eoscsecretariat.eu/	|	EOSC Secretariat|
-|https://www.eoscsecretariat.eu/eosc-communities |	EOSC Communities|
-|https://eosc.eu/ 		|	EOSC Association|
-|https://eosc.eu/tripartite-collaboration 		|Tripartite Collaboration|
-|https://eosc.eu/advisory-groups 	|	Advisory Groups - Task Forces|
-|https://eosc.eu/calls-grants 	|		Calls and Grants|
-|https://eosc-portal.eu/ 		|	Gateway to information and resources in EOSC|
-|https://marketplace.eosc-portal.eu/  |		EOSC Portal Catalogue and Marketplace|
-|https://providers.eosc-portal.eu/home  |		EOSC Providers Portal|
+## Research Data Management Toolkit
 
 ## RDM (Train the Trainers and Training)
 |Link|Description|
@@ -64,3 +51,16 @@ Research Data Management Toolkit
 |---|---|
 |https://bit.ly/3NLglVR 	|	Data Horror Escape Room|
 |https://bit.ly/3O7fFdb 	|	Open Science Escape Room|
+
+## EOSC: European Open Science Cloud
+|Link|Description|
+|---|---|
+|https://www.eoscsecretariat.eu/	|	EOSC Secretariat|
+|https://www.eoscsecretariat.eu/eosc-communities |	EOSC Communities|
+|https://eosc.eu/ 		|	EOSC Association|
+|https://eosc.eu/tripartite-collaboration 		|Tripartite Collaboration|
+|https://eosc.eu/advisory-groups 	|	Advisory Groups - Task Forces|
+|https://eosc.eu/calls-grants 	|		Calls and Grants|
+|https://eosc-portal.eu/ 		|	Gateway to information and resources in EOSC|
+|https://marketplace.eosc-portal.eu/  |		EOSC Portal Catalogue and Marketplace|
+|https://providers.eosc-portal.eu/home  |		EOSC Providers Portal|
