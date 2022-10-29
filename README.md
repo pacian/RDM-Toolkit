@@ -1,4 +1,4 @@
-# Guide for Research Data Management  
+# Guide for Research Data Management Trainers
 # 
 
 ## RDM (Train the Trainers and Training)
